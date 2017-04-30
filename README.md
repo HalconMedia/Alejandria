@@ -1,2 +1,2 @@
 # Alejandria
-Sistema de Información en la Línea para personas con discapacida visual y movilidad reducida
+Sistema de Información en la Línea para personas con discapacidad visual y/o movilidad reducida
